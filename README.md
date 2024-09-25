@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ccc84c941e0f0aba9db31802bf6fd58251085232
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 =======
 # neurolab-wevsite
 website of neurolab JS React Three.js
 >>>>>>> 2075afc86fa444ad5fd0f0b744c28ab56b431f72
+=======
+>>>>>>> ccc84c941e0f0aba9db31802bf6fd58251085232
